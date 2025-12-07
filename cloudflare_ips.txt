@@ -1,18 +1,18 @@
-美国IPV4优选结果：
-104.17.8.46,SJC,North America,San Jose,166 ms                                   104.19.39.152,SJC,North America,San Jose,166 ms
-104.19.92.145,SJC,North America,San Jose,166 ms                                 
-亚洲IPV4优选结果：                                                              104.18.43.6,SIN,Asia Pacific,Singapore,94 ms
-162.159.15.72,SIN,Asia Pacific,Singapore,95 ms                                  162.159.61.134,SIN,Asia Pacific,Singapore,95 ms
-                                                                                欧洲IPV4优选结果：
-104.24.139.135,FRA,Europe,Frankfurt,159 ms
-104.25.105.185,FRA,Europe,Frankfurt,159 ms                                      104.27.198.209,FRA,Europe,Frankfurt,159 ms
-IPV6最佳可用节点如下（取前三名）：                                              美国IPV6优选结果：
-2606:4700:3108:33a0:dd06:cc96:2cf4:7eb1,SJC,North America,San Jose,171 ms
-2a06:98c1:58:7e6c:393c:b772:89c6:7ca,SJC,North America,San Jose,171 ms          2606:4700:2:b49b:6e97:8244:6245:f1e3,SJC,North America,San Jose,173 ms
-
-亚洲IPV6优选结果：                                                              2606:4700:5c:1d2f:c910:d49e:219e:a7e7,SIN,Asia Pacific,Singapore,95 ms
-2606:4700:4405:741:1a15:b889:97e7:9f54,SIN,Asia Pacific,Singapore,101 ms
-2606:4700:f4:dee8:11f6:ea6a:4c54:5032,SIN,Asia Pacific,Singapore,102 ms         
-欧洲IPV6优选结果：
-2606:4700:8d9f:ef55:1383:a846:ec05:72ca,FRA,Europe,Frankfurt,159 ms
-2606:4700:9a9e:7606:d7cf:2d67:6a8a:6883,FRA,Europe,Frankfurt,160 ms             2606:4700:8ca0:8cdf:73f1:ac50:82cc:e89e,FRA,Europe,Frankfurt,161 ms
+104.17.8.46:443#SJC-19.81MB/s-IPv4
+104.19.39.152:443#SJC-19.81MB/s-IPv4
+104.19.92.145:443#SJC-19.81MB/s-IPv4
+104.18.43.6:443#SIN-19.81MB/s-IPv4
+162.159.15.72:443#SIN-19.81MB/s-IPv4
+162.159.61.134:443#SIN-19.81MB/s-IPv4
+104.24.139.135:443#FRA-19.81MB/s-IPv4
+104.25.105.185:443#FRA-19.81MB/s-IPv4
+104.27.198.209:443#FRA-19.81MB/s-IPv4
+[2606:4700:3108:33a0:dd06:cc96:2cf4:7eb1]:443#SJC-19.81MB/s-IPv6
+[2a06:98c1:58:7e6c:393c:b772:89c6:7ca]:443#SJC-19.81MB/s-IPv6
+[2606:4700:2:b49b:6e97:8244:6245:f1e3]:443#SJC-19.81MB/s-IPv6
+[2606:4700:5c:1d2f:c910:d49e:219e:a7e7]:443#SIN-19.81MB/s-IPv6
+[2606:4700:4405:741:1a15:b889:97e7:9f54]:443#SIN-19.81MB/s-IPv6
+[2606:4700:f4:dee8:11f6:ea6a:4c54:5032]:443#SIN-19.81MB/s-IPv6
+[2606:4700:8d9f:ef55:1383:a846:ec05:72ca]:443#FRA-19.81MB/s-IPv6
+[2606:4700:9a9e:7606:d7cf:2d67:6a8a:6883]:443#FRA-19.81MB/s-IPv6
+[2606:4700:8ca0:8cdf:73f1:ac50:82cc:e89e]:443#FRA-19.81MB/s-IPv6
